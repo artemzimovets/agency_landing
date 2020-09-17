@@ -1,2 +1,2 @@
-<h1>Homework#6<h1>
+<h1>Diital agency<h1>
 <img src="img/github/task.jpg">
